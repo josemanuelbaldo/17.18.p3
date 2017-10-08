@@ -1,4 +1,6 @@
 
 public class Coche {
-	public Coche() {}
+	public Coche() {
+		System.out.println("hola");
+	}
 }
